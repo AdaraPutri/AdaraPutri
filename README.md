@@ -2,9 +2,29 @@
 
 ###
 
-<p align="left">A final year computer science student at the University of British Columbia interested in the field of BCI (Brain-Computer Interface).</p>
+<p align="left">Recent CS grad from UBC currently working as an Administrative Assistant in insurance claims adjusting, building whatever's on my mind whenever I find the time to. My GitHub's a mix of coursework, tools I've built to fix things at work, and random ideas from everyday life. </p>
 
-###
+<p align="left">Open to Summer 2027 roles, so feel free to reach out! </p>
+
+---
+
+<h3 align="left">Roles I'm Exploring:</h3>
+
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-fca590?style=flat-square)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-a2d7c5?style=flat-square)
+![Business Analyst](https://img.shields.io/badge/Business%20Analyst-f0b9bf?style=flat-square)
+![Product Management](https://img.shields.io/badge/Product%20Management-b6ccdc?style=flat-square)
+![Product Analyst](https://img.shields.io/badge/Product%20Analyst-dbbfe4?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-f9c4cb?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-fcd8b8?style=flat-square)
+![Tech Consulting](https://img.shields.io/badge/Tech%20Consulting-dfccb7?style=flat-square)
+
+---
+
+<h3 align="left">Research Interests:</h3>
+<p align="left">Markov Models & Stochastic Process Modeling · Learning Analytics · Wearable Neurotechnology (with a focus on EEG-based BCIs)</p>
+
+---
 
 <h3 align="left">I code with:</h3>
 
