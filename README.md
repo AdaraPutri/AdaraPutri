@@ -4,7 +4,7 @@
 
 <p align="left">Recent CS grad from UBC currently working as an Administrative Assistant in insurance claims adjusting, building whatever's on my mind whenever I find the time to. My GitHub's a mix of course projects, tools I've built to fix things at work, and random ideas from everyday life. </p>
 
-<p align="left">Open to Summer 2027 roles, so feel free to reach out! </p>
+<p align="left">Open to full-time positions commencing June 2027, so feel free to reach out! </p>
 
 ---
 
