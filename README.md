@@ -10,14 +10,14 @@
 
 <h3 align="left">Roles I'm Exploring:</h3>
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-fca590?style=flat-square)
-![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-a2d7c5?style=flat-square)
-![Business Analyst](https://img.shields.io/badge/Business%20Analyst-f0b9bf?style=flat-square)
-![Product Management](https://img.shields.io/badge/Product%20Management-b6ccdc?style=flat-square)
-![Product Analyst](https://img.shields.io/badge/Product%20Analyst-dbbfe4?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-f9c4cb?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-fcd8b8?style=flat-square)
-![Tech Consulting](https://img.shields.io/badge/Tech%20Consulting-dfccb7?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6a8079?style=flat-square)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-b5b9a7?style=flat-square)<br>
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-fff2d4?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-e1bab9?style=flat-square)
+![Product Analyst](https://img.shields.io/badge/Product%20Analyst-c3819e?style=flat-square)<br>
+![Business Analyst](https://img.shields.io/badge/Business%20Analyst-a54983?style=flat-square)
+![Product Management](https://img.shields.io/badge/Product%20Management-871067?style=flat-square)
+![Tech Consulting](https://img.shields.io/badge/Tech%20Consulting-440834?style=flat-square)
 
 ---
 
